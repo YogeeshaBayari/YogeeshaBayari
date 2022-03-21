@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YogeeshaBayari
 - 👀 I’m interested in Web develpment and Programming.
-- 🌱 I’m currently learning CSS , Javascript and Java .
+- 🌱 I’m currently learning Python and Java .
 - 📫 You can message me any time 👉 yogishbayari@gmail.com
 
 <!---
